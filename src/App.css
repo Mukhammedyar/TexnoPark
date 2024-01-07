@@ -1,0 +1,11 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.uy-bg {
+  background-image: url(./assets/texno.jpg);
+  background-size: cover 110%;
+  background-attachment: fixed;
+}

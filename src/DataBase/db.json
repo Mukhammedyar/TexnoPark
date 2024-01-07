@@ -1,0 +1,74 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "src": "./src/assets/python.png",
+            "name": "Python Basic", 
+            "mentorName":"",
+            "muddet": 6
+        },
+        {
+            "id": 2,
+            "src": "./src/assets/android.png",
+            "name": "Android Basic", 
+            "mentorName":"",
+            "muddet": 6
+        },
+        {
+            "id": 3,
+            "src": "./src/assets/cshap.png",
+            "name": "Programmalastiriw (C #)", 
+            "mentorName":"",
+            "muddet": 3
+        },
+        {
+            "id": 4,
+            "src": "./src/assets/robot.jpg",
+            "name": "Robototexnika", 
+            "mentorName":"",
+            "muddet": 4
+        },
+        {
+            "id": 5,
+            "src": "./src/assets/python.png",
+            "name": "Kompyuter Sawatxanlig'i", 
+            "mentorName":"",
+            "muddet": 2
+        },
+        {
+            "id": 6,
+            "src": "./src/assets/python.png",
+            "name": "Mobilografiya", 
+            "mentorName":"",
+            "muddet": 1
+        },
+        {
+            "id": 7,
+            "src": "./src/assets/python.png",
+            "name": "Mental arifmetika", 
+            "mentorName":"",
+            "muddet": 6
+        },
+        {
+            "id": 8,
+            "src": "./src/assets/python.png",
+            "name": "Matematika", 
+            "mentorName":"",
+            "muddet": 6
+        },
+        {
+            "id": 9,
+            "src": "./src/assets/python.png",
+            "name": "Inglis tili (kids)", 
+            "mentorName":"",
+            "muddet": 4
+        },
+        {
+            "id": 10,
+            "src": "./src/assets/python.png",
+            "name": "Turk tili (kids)", 
+            "mentorName":"",
+            "muddet": 3
+        }
+    ]
+}

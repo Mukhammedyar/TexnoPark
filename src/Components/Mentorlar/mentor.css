@@ -1,0 +1,15 @@
+.slideCard:hover {
+  transform: translateY(-10px);
+}
+.slideCard:hover .img {
+  transform: scale(105%);
+}
+.card-text {
+  background: #ffffff64;
+  backdrop-filter: blur(10px);
+}
+
+.slideCard:hover .card-text {
+  padding: 15px 8px;
+  transition: all 2px ease;
+}

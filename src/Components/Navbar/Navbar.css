@@ -1,0 +1,16 @@
+.dropdown-qosimsha {
+  display: none;
+}
+.qosimsha:hover .dropdown-qosimsha {
+  display: flex;
+}
+.nav {
+  z-index: 10 !important;
+  position: sticky;
+  top: 0;
+}
+
+.nav-item:hover {
+  color: darkgreen;
+  border-bottom: 1.5px solid darkgreen;
+}
