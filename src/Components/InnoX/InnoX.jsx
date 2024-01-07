@@ -1,6 +1,5 @@
 import React, { useContext } from 'react'
 import './innoX.css'
-import innoX from '../../assets/Background.png'
 import { DarkModeContext } from '../../Context/DarkModeContext'
 import { Grow, useScrollTrigger } from '@mui/material'
 
