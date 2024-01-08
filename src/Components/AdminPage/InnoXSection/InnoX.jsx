@@ -2,7 +2,7 @@ import React from 'react'
 import EditButton from '../../../UI/EditButton/EditButton'
 import ModalPage from '../../../UI/Modal/Modal'
 import Input from '../../../UI/Input/Input'
-import innoX from "../../../assets/Background.png"
+import innoX from "../../../assets/texno.jpg"
 
 export default function InnoX({handleClose, handleOpen , open}) {
   return (

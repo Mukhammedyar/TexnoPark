@@ -1,6 +1,7 @@
 import React, { useContext } from 'react'
 import './innoX.css'
 import { DarkModeContext } from '../../Context/DarkModeContext'
+import img from '../../assets/texno.jpg'
 import { Grow, useScrollTrigger } from '@mui/material'
 
 
@@ -23,7 +24,7 @@ export default function InnoX() {
             </div>
             <div div className="grid row-start-1 col-start-2 overflow-hidden">
               <img
-                src="https://avatars.mds.yandex.net/i?id=b1b17994931945ba19729d3546a04c1b90578ecf_l-10603993-images-thumbs&n=13"
+                src={img}
                 className=' object-cover w-full h-full hover:scale-[105%] transition-all transition-2'
                 alt="" />
             </div>
