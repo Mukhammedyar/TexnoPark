@@ -6,6 +6,7 @@
 
 .uy-bg {
   background-image: url(./assets/texno.jpg);
-  background-size: cover 110%;
+  background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }

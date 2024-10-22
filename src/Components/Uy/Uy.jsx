@@ -5,9 +5,9 @@ import './uy.css'
 
 export default function Uy() {
   return (
-    <div className='uy-body backdrop-blur-sm backdrop-brightness-75 md:backdrop-blur-0 md:px-[7%] sm:px-[5%] px-[5%] py-5 text-white'>
+    <div className='uy-body backdrop-blur-sm backdrop-brightness-75 md:backdrop-blur-0 md:px-[7%] sm:px-[5%] px-[5%] py-5 text-white h-[100vh]'>
       <div
-        className='uy-elem z-10 grid md:grid-cols-2 uy p-3 gap-5 border-gray-200 border-[2px] rounded-3xl h-[550px] md:h-[450px] lg:h-[450px]'
+        className='uy-elem z-10 grid md:grid-cols-2 uy p-3 gap-5 border-gray-200 border-[2px] rounded-3xl h-[80vh]'
       >
         <div className="grid row-start-2 col-start-1 md:row-start-1 md:col-start-1 lg:row-start-1 lg:col-start-1 place-items-center md:place-items-start lg:place-items-start place-content-center md:place-content-center left gap-3 px-3 h-[100%] md:h-full">
           <p className='text-sm font-mono text-gray-200'>
